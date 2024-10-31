@@ -1,12 +1,12 @@
 /** dont change credits please **/
 module.exports.config = {
-  name: "Hotvideos",
+  name: "notworkvideo",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "BROKEN",
   description: "HOT VIDEO",
   commandCategory: "admin",
-  usages: "Hotvideos",
+  usages: "notworkvideo",
   cooldowns: 5,
   dependencies: {
     "request": "",
